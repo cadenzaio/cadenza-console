@@ -1,5 +1,8 @@
 # Untitled UI starter kit for Vite
 
+> [!WARNING]
+> **Legacy pre-v4 Cadenza implementation.** This repository does not define the current Cadenza architecture or contracts. No compatibility with the new major-version direction is promised. See [cadenza-workspace](https://github.com/cadenzaio/cadenza-workspace) for the current architecture and releases.
+
 This is an official Untitled UI starter kit for Vite. Kickstart your Untitled UI project with Vite in seconds.
 
 ## Untitled UI React
